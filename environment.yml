@@ -1,0 +1,15 @@
+name: qml-day
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.8
+  - numpy>=1.21.0
+  - matplotlib>=3.5.0
+  - jupyter>=1.0.0
+  - ipykernel>=6.0.0
+  - pip
+  - pip:
+    - pennylane>=0.30.0
+    - ipywidgets>=7.6.0
+

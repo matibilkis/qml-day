@@ -1,0 +1,19 @@
+# Quantum Machine Learning Tutorial Dependencies
+# Python 3.8+
+
+# Core quantum machine learning framework
+pennylane>=0.30.0
+
+# Numerical computing
+numpy>=1.21.0
+
+# Data visualization
+matplotlib>=3.5.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: for better notebook experience
+ipywidgets>=7.6.0
+
